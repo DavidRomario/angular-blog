@@ -16,7 +16,8 @@ export const dataFake = [
     "title": "Novo filme do Pantera Negra lançado em breve.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus nisi ut sollicitudin bibendum. Proin ligula lorem, euismod sit amet ligula eu, suscipit cursus sem. Morbi interdum risus sollicitudin mi tempus bibendum. Vivamus hendrerit elit et libero porttitor, id placerat metus aliquet. Aliquam porta massa at placerat ultrices. Donec et nulla sapien. Duis euismod placerat justo quis tempus. Morbi sit amet euismod velit, in varius urna.",
     "photoCover":"https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/35720ACD323F927C3A83D809D0F460BD3651740DA519BCC184B6F042057EA14D/scale?width=1200&aspectRatio=1.78&format=jpeg"
-  },{
+  },
+  {
     "id":"4",
     "title": "Novo filme dos X-men está em pós produção, afirma diretor.",
     "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer rhoncus nisi ut sollicitudin bibendum. Proin ligula lorem, euismod sit amet ligula eu, suscipit cursus sem. Morbi interdum risus sollicitudin mi tempus bibendum. Vivamus hendrerit elit et libero porttitor, id placerat metus aliquet. Aliquam porta massa at placerat ultrices. Donec et nulla sapien. Duis euismod placerat justo quis tempus. Morbi sit amet euismod velit, in varius urna.",
